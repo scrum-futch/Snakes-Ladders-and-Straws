@@ -1,0 +1,28 @@
+4 players
+Starts at 0
+Players roll with 1 dice 6 sided
+Move according the dice
+
+ladder:
+1 -> 38
+4 -> 14
+8 -> 30
+21 -> 42
+28 -> 76
+50 -> 67
+71 -> 92
+80 -> 99
+
+Snakes:
+97 -> 78
+95 -> 56
+88 -> 24
+62 -> 18
+48 -> 26
+36 -> 6
+32 -> 10 
+
+Straws:
+11 <-> 90
+17 <-> 84
+20 <-> 81
